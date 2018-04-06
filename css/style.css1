@@ -1,0 +1,77 @@
+html {
+    font-size:10px;
+}
+
+body {
+    margin:0;
+}
+
+/*Делаю header*/
+
+.header__logo {
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+.header__text {
+
+    font-size:2.8rem;
+    font-weight:600;
+}
+
+.header__logo-icon {
+    box-sizing:border-box;
+    padding-left:0px;
+    padding-top:4px;
+    width:17%;
+    height:auto;
+    fill:#f26840;
+    stroke:#f26840;
+    
+}
+
+.container {
+    background-color:rgb(115, 204, 115);
+    
+}
+
+
+.header__toggle-menu {
+    width:38px;
+    height:auto;
+    padding-bottom:6px;
+}
+
+.header-row {
+    display:flex;
+    justify-content:space-between;
+
+}
+
+.header__toggle-menu-wrapper {
+    box-sizing:border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+#carouselExampleControls{
+    display:block;
+    height:710px;
+}
+
+.banner-with-scroll-down_shadow {
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.6);
+    height:710px;
+    z-index:20;
+}
+
+.carousel {
+    position: absolute;
+    z-index:-10;
+}
+/*Закончил делать header*/

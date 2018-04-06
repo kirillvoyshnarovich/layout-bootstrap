@@ -1,0 +1,77 @@
+%!Adobe-FontList 1.14
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MgOpenModata
+FamilyName:MgOpen Modata
+StyleName:Regular
+FullName:MgOpen Modata
+MenuName:MgOpen Modata
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Greek
+OutlineFileName:C:\Users\Кирилл\Desktop\с курсов\Documents (1)\Новый макет на bootstrap\Font\MgOpen Modata, Regular.ttf
+DataFormat:sfntData
+FileLength:72244
+FileModTime:1521038596
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BigNoodleTitling
+FamilyName:BigNoodleTitling
+StyleName:Regular
+FullName:BigNoodleTitling
+MenuName:BigNoodleTitling
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Кирилл\Desktop\с курсов\Documents (1)\Новый макет на bootstrap\Font\big_noodle_titling\big_noodle_titling.ttf
+DataFormat:sfntData
+FileLength:26828
+FileModTime:1058044734
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Кирилл\Desktop\с курсов\Documents (1)\Новый макет на bootstrap\Font\big_noodle_titling\big_noodle_titling.txt
+FileModTime:1058044230
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BigNoodleTitling-Oblique
+FamilyName:BigNoodleTitling
+StyleName:Oblique
+FullName:BigNoodleTitling Oblique
+MenuName:BigNoodleTitling
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Кирилл\Desktop\с курсов\Documents (1)\Новый макет на bootstrap\Font\big_noodle_titling\big_noodle_titling_oblique.ttf
+DataFormat:sfntData
+FileLength:27876
+FileModTime:1058044714
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Кирилл\Desktop\с курсов\Documents (1)\Новый макет на bootstrap\Font\big_noodle_titling\Sentinel_Type_Freefont_EULA.txt
+FileModTime:1057964198
+%EndFont
+
